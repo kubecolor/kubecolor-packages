@@ -1,0 +1,5 @@
+Component: main
+Origin: kubecolor
+Label: kubecolor
+Architecture: i386
+Description: kubecolor - a kubectl wrapper used to add colors to your kubectl output
