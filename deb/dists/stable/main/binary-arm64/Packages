@@ -9,9 +9,9 @@ Homepage: https://kubecolor.github.io/
 Priority: optional
 Section: 
 Filename: pool/main/k/kubecolor/kubecolor_0.5.0_arm64.deb
-Size: 2364172
-SHA256: 1e832bb7dff65f5bb9cb58e6bb4b00838830c254982b4054ccc193d42fe93a87
-SHA1: f7691637721bb2e1746de34ccbae79d9351ac21a
-MD5sum: 260a8d52e8fa2f04971e69a1f9ff5d48
+Size: 2364098
+SHA256: 24aafc660f1dd5d89a547272e9fee6790b9bddca7b0d8444f8be52a2e6b604cd
+SHA1: ea61102e8411d0ccc612cf2d75c95fba183ae412
+MD5sum: 832259ee771d3e9a1e09a6db64fdb636
 Description: a kubectl wrapper used to add colors to your kubectl output
 

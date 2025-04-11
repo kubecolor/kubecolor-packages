@@ -1,46 +1,46 @@
 Origin: kubecolor
 Label: kubecolor
 Codename: stable
-Date: Tue, 08 Apr 2025 21:10:27 UTC
+Date: Fri, 11 Apr 2025 19:54:09 UTC
 Architectures: i386 amd64 armhf arm64
 Components: main
 Description: kubecolor - a kubectl wrapper used to add colors to your kubectl output
 MD5Sum:
- 157654b50dc5ae0b0e79605b99676c25 554 main/binary-i386/Packages
- fcda4359733acb7abf915110c3208959 402 main/binary-i386/Packages.gz
+ 3d055ee8d9159216a660b8f7c2ea4795 554 main/binary-i386/Packages
+ 54d984aa9def5d448b014a7445ce6155 400 main/binary-i386/Packages.gz
  6848341938d73b89463a1e72e32a4390 155 main/binary-i386/Release
- 18dca468d4e7c2efef808c5ab165f1e0 556 main/binary-amd64/Packages
- 62091280e857888e90bd019088b6509f 403 main/binary-amd64/Packages.gz
+ aeb759dbb3ef1e2f0cde1288dbea2705 556 main/binary-amd64/Packages
+ 74412e7669f1a146edcc5783694dfa71 404 main/binary-amd64/Packages.gz
  0e8c1173e088093551202f216e9c5db4 156 main/binary-amd64/Release
- 17670e1f777eeb7e08d6fb71071725df 556 main/binary-armhf/Packages
- 05d5c721b2a3539b175d7f41f1a7e25b 401 main/binary-armhf/Packages.gz
+ 425723dbc96456ef2132053eb32cbe21 556 main/binary-armhf/Packages
+ d5d8881c45dc031872dead23a82c5b73 404 main/binary-armhf/Packages.gz
  c151a9a3c066b5041104c45c2b6eba59 156 main/binary-armhf/Release
- 70a784849be2149a3f4df10f67c48de5 556 main/binary-arm64/Packages
- 6415c8be6d1e8553521361613c9f438d 405 main/binary-arm64/Packages.gz
+ 8024b0df1895007312a99a996b363c3f 556 main/binary-arm64/Packages
+ 60c35bbc795fd6dee2e9bd676ce50a80 403 main/binary-arm64/Packages.gz
  bd5598414a009c7b885d35ab25415fac 156 main/binary-arm64/Release
 SHA1:
- f4e8bb57842724777031ed242003248c7adeca0b 554 main/binary-i386/Packages
- 6bad41241cc435212f47917e930aff306ee372b5 402 main/binary-i386/Packages.gz
+ 3ac3a2aed433de00a4acf77c3bc84c1367d5cd8c 554 main/binary-i386/Packages
+ 84bc1acf1956ae3ad0e5c743db0ae82ca5bc3c3b 400 main/binary-i386/Packages.gz
  48fe9ad652c0e3dfcced6a17492c26f3ebc5f9b8 155 main/binary-i386/Release
- d764e54fca5ceadef0cac51051188f7a2bbc025a 556 main/binary-amd64/Packages
- 8725bf8c82c0fa902c4a7bd985b0e674fc940bf1 403 main/binary-amd64/Packages.gz
+ 685581d34adfe4dfcb689a085b4c3abb6d5292da 556 main/binary-amd64/Packages
+ bb864638e30d3843d59f74c26dbc22577d8f4908 404 main/binary-amd64/Packages.gz
  a2b81b226bf0b7474e590f6195914bf585594c68 156 main/binary-amd64/Release
- b312b7d8f06b940057064b4a699df49437b8f332 556 main/binary-armhf/Packages
- 77bb43a313053eeb7eb29ded74dcfa652f4145d8 401 main/binary-armhf/Packages.gz
+ 90a2eed56666a9d02ef3312477f63364629b525d 556 main/binary-armhf/Packages
+ 2476de0af5ea4045a781a6f28d4431b384472743 404 main/binary-armhf/Packages.gz
  7e0180539af5a7a73d411278525b763a7d30f9a9 156 main/binary-armhf/Release
- 8274b03ca09f24efa6124e62fb073a9ee306dc2b 556 main/binary-arm64/Packages
- dac9fc69e95d6aadceb618fcb659c849e4df24a5 405 main/binary-arm64/Packages.gz
+ ffd95e2b05f2c84d75ccc11cbd899dcc75a84953 556 main/binary-arm64/Packages
+ 95ac96f81f7a19ec5d28a00ffb45f088878feed1 403 main/binary-arm64/Packages.gz
  fda2612fe4f87f273118f093b51e3b242fd1ccd4 156 main/binary-arm64/Release
 SHA256:
- 5480c0b9157b562cc2473c19c04e5667e4f49c236779cb98a04ad5bad43c4dea 554 main/binary-i386/Packages
- 6c635f256eae4d3986972b8b76a91913c22d26dfd9a231c5f5bf91e33a6afa33 402 main/binary-i386/Packages.gz
+ 2b0d118e78b405a96b59c126531be1a1319343cbe70521618823fd443d1b2b0b 554 main/binary-i386/Packages
+ 6c7a5b90832c3a98da8a71c63d1efd5d0f1aa3b79091783264141ab9fe951ade 400 main/binary-i386/Packages.gz
  51878e5b9cef744392b81cd5b9ea0cf2f0af5d7065719e4f4cf3591d52bf6cf8 155 main/binary-i386/Release
- 204521bacc2fe8c7e31913a14f0c04ded9b5ea0921fbe9b9335fa8c2278da1f1 556 main/binary-amd64/Packages
- 60242ac2082de66e008e2ba2ea76310fae4066c884b71ac6b1b0fe78cbea1a2f 403 main/binary-amd64/Packages.gz
+ 180faf298d07ec4a06e8af8cb728e0f00652969504d407fabec0907c1b9a7a89 556 main/binary-amd64/Packages
+ 60fd0be28710f7c1c9c06427e6f76cdfdd121480f8f2d512ef5ce782f683d812 404 main/binary-amd64/Packages.gz
  d3afc8a5e33f88e6ddb59d00404c53e4298c729789ccf5b8d824a792930aaede 156 main/binary-amd64/Release
- c0c2906852a11626574b19ee297f3524d8513e63095fc97345817859b4b4a9be 556 main/binary-armhf/Packages
- 071fa1dced64f308bb507a123db30b99960e78b6f8d9778e2b1a2e091052b444 401 main/binary-armhf/Packages.gz
+ c41fbd677dc01baaf9912736a92b653bcad2be8bdf55e9863a43cc10b384f3bd 556 main/binary-armhf/Packages
+ 87ad80bdbb606611f7dd6777e9ec4c4ab7cdfa1a933b03a167284c8a677ead4d 404 main/binary-armhf/Packages.gz
  2705607c98d6dd430fcd1a1a680a5eda09a19774eb779ec93e76bb6706e38c96 156 main/binary-armhf/Release
- 0d29e639960d42faa16423cbadc728bc9971084486ab2faf648967d398780265 556 main/binary-arm64/Packages
- 574964a2ba4b5e3e2811d2360208d0b0d1e6f63cd9a05f99ac5b680a797a6314 405 main/binary-arm64/Packages.gz
+ d1df1811bdc273313b4b81bd7c9de28bfe16b350ec5dc38dadb24325a6a94cf4 556 main/binary-arm64/Packages
+ 6e941a3bdcf1124f26938e50e92d4f00b182760807c0efee7184808d909ac431 403 main/binary-arm64/Packages.gz
  72575a55c171a227204d4c8ce91779aeb1c4a9f06f12535ffbca02c8f51ca051 156 main/binary-arm64/Release
