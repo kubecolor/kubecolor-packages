@@ -1,17 +1,17 @@
 Package: kubecolor
-Version: 0.5.0
+Version: 0.5.1
 Architecture: arm64
 License: MIT
 Maintainer: Kalle Fagerberg <applejag-packages.gigabyte962@passmail.net>
-Installed-Size: 5537
+Installed-Size: 5409
 Recommends: kubectl
 Homepage: https://kubecolor.github.io/
 Priority: optional
 Section: 
-Filename: pool/main/k/kubecolor/kubecolor_0.5.0_arm64.deb
-Size: 2364098
-SHA256: 24aafc660f1dd5d89a547272e9fee6790b9bddca7b0d8444f8be52a2e6b604cd
-SHA1: ea61102e8411d0ccc612cf2d75c95fba183ae412
-MD5sum: 832259ee771d3e9a1e09a6db64fdb636
+Filename: pool/main/k/kubecolor/kubecolor_0.5.1_arm64.deb
+Size: 2295660
+SHA256: bfca293fa4591cc8685d3549c9a43fc0c51bf660e49f3fa719d6ff3b8a5b8b13
+SHA1: b94ed298904f998f511543c8fcda9febfce91dc9
+MD5sum: 5d94dc0941230b62050556aa8671502f
 Description: a kubectl wrapper used to add colors to your kubectl output
 
